@@ -1,0 +1,22 @@
+Le code de génération de QR code animé permet à l'utilisateur de créer des QR codes personnalisés à partir de divers types de données (URL, texte, numéro de téléphone, e-mail) et d'ajouter un logo. Voici comment utiliser le code sur un autre PC :
+
+ Utilisation du Code
+
+1. *Installation des Bibliothèques* : Assurez-vous d'installer les bibliothèques nécessaires en exécutant les commandes suivantes dans le terminal :
+   bash
+   pip install qrcode; Pillow; imageio; tkinter
+   
+
+2. *Exécution du Script* : Ouvrez le fichier contenant le code dans un éditeur Python comme PyCharm et exécutez-le.
+
+3. *Interface Utilisateur* :
+   - Sélectionnez le type de contenu à encoder.
+   - Saisissez les données dans le champ prévu.
+   - Choisissez les couleurs pour le QR code et l'arrière-plan via la boîte de dialogue.
+   - Si désiré, sélectionnez une image/logo à intégrer au QR code.
+   - Cliquez sur "Générer le QR Code Animé" pour créer et sauvegarder le GIF.
+
+4. *Fermeture Automatique* : Après la génération du QR code, la fenêtre se fermera automatiquement.
+
+J'ai galéré mais ça valait le coup j'aime le rendu !
+Chat m'a beaucoup aidé on va pas se mentir...
