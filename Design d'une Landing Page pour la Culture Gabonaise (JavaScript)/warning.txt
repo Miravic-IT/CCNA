@@ -1,0 +1,15 @@
+
+1. Structure HTML :
+   - La page contient une structure HTML de base qui inclut un titre et des sections pour présenter des informations sur la culture gabonaise.
+
+2. Styles CSS :
+   - Des styles CSS sont appliqués pour améliorer l'apparence de la page, notamment la mise en forme du texte, des images et des éléments de mise en page.
+
+3. Animations JavaScript :
+   - Le code JavaScript est utilisé pour ajouter des animations et des interactions. Par exemple, cela peut inclure des effets de survol, des transitions lors du défilement, ou d'autres animations qui attirent l'attention sur les éléments clés de la page.
+
+4. Interactivité :
+   - Les utilisateurs peuvent interagir avec la page via divers éléments (comme des boutons ou des liens), ce qui peut déclencher des animations ou afficher des informations supplémentaires.
+
+- Lorsqu'un utilisateur ouvre la landing page dans un navigateur, il voit une présentation visuelle attrayante de la culture gabonaise.
+- Les animations et les effets interactifs rendent l'expérience utilisateur plus engageante et dynamique..

@@ -1,0 +1,20 @@
+
+1. *Chargement des Notes* :
+   - À l'exécution, le programme tente de charger les notes à partir d'un fichier JSON. Si le fichier n'existe pas, il initialise une liste vide pour stocker les notes.
+
+2. *Ajout de Notes* :
+   - L'utilisateur peut ajouter une nouvelle note en entrant le texte souhaité. Cette note est ensuite ajoutée à la liste des notes.
+
+3. *Suppression de Notes* :
+   - L'utilisateur a la possibilité de supprimer une note en spécifiant son index dans la liste. Le programme vérifie que l'index est valide avant de procéder à la suppression.
+
+4. *Sauvegarde des Notes* :
+   - Après chaque ajout ou suppression, les notes sont sauvegardées dans le fichier JSON pour garantir que les modifications sont persistantes entre les exécutions du programme.
+
+5. *Affichage des Notes* :
+   - Le programme peut afficher toutes les notes actuellement stockées, permettant à l'utilisateur de voir ce qu'il a enregistré.
+
+Utilisation
+
+- Lorsqu'un utilisateur exécute le script, il interagit avec lui via la ligne de commande en choisissant parmi les options disponibles (ajouter, supprimer, afficher ou quitter).
+- Les notes sont gérées dans un format JSON, facilitant leur stockage et leur récupération.
